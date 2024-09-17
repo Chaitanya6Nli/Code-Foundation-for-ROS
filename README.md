@@ -2,4 +2,4 @@
 
 ### Project Status:
 
-![issue_badge](https://img.shields.io/badge/Exam%20Score-8.25/10-green) 
+![issue_badge](https://img.shields.io/badge/Exam%20Score-9/10-green) 
